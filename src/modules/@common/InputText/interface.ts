@@ -1,4 +1,4 @@
-import React from "react";
+import {  } from 'react-hook-form'
 
 export interface IInputText {
   
